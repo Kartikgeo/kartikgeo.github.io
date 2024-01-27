@@ -7,7 +7,7 @@
      <form action="">
         <div>
         <label for="fame">USERNAME</label>
-        <input type="text" id="frame" placeholder="username,email,number"required>
+     <input type="password" id="password" placeholder="PASSWORD" required maxlength="12">
     </div>
 
     <br>
