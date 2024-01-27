@@ -1,4 +1,4 @@
-aaaaa<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<title>7 Different Colors</title>
