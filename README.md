@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+#kartik
 <html>
 <head>
 	<title>7 Different Colors</title>
